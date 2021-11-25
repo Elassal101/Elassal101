@@ -913,7 +913,7 @@ z-index: -10;
 background-color: rgba(175, 174, 174, 0.233);
 }
 
-.fields .container>div>div:hover:before {transform: scaleX(120) scaleY(30);
+.fields .container>div>div:hover:before {transform: scaleX(200) scaleY(120);
 transition: 0.5s;
 z-index: 10000;
 }
